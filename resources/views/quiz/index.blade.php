@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="mb-4">Select an Exam</h1>
+        <h1 class="mb-4">Select an Exam tahamid khan shafaque</h1>
         @if(session('error'))
             <div class="alert alert-danger">
                 {{ session('error') }}
